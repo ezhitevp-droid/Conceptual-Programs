@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:30.256Z",
+  "lastUpdated": "2026-08-01T16:27:33.423Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1462,6 +1462,24 @@
               "runtime": "0 ms",
               "memory": "8.3 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "merge-strings-alternately": {
+          "questionId": "1768",
+          "title": "Merge Strings Alternately",
+          "titleSlug": "merge-strings-alternately",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601653423,
+              "runtime": "0 ms",
+              "memory": "8 MB",
+              "githubPath": "LeetCode/Two Pointers/Merge Strings Alternately/"
             }
           }
         }
