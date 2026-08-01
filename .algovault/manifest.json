@@ -1,0 +1,215 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-01T16:26:35.351Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Sorting"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595349,
+              "runtime": "0 ms",
+              "memory": "12.2 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
+            }
+          }
+        },
+        "combination-sum-ii": {
+          "questionId": "40",
+          "title": "Combination Sum II",
+          "titleSlug": "combination-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601595350,
+              "runtime": "0 ms",
+              "memory": "11.9 MB",
+              "githubPath": "LeetCode/Array/Combination Sum II/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601595350,
+              "runtime": "0 ms",
+              "memory": "10.9 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "7 ms",
+              "memory": "9.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "0 ms",
+              "memory": "95.2 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "17 ms",
+              "memory": "14.2 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "0 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "3 ms",
+              "memory": "15 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595350,
+              "runtime": "0 ms",
+              "memory": "14.1 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595351,
+              "runtime": "0 ms",
+              "memory": "21.7 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601595351,
+              "runtime": "0 ms",
+              "memory": "9.3 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        }
+      },
+      "username": "itz__priyan__"
+    }
+  }
+}
