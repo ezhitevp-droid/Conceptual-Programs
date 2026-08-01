@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:13.588Z",
+  "lastUpdated": "2026-08-01T16:27:17.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1115,6 +1115,42 @@
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
+            }
+          }
+        },
+        "count-odd-numbers-in-an-interval-range": {
+          "questionId": "1523",
+          "title": "Count Odd Numbers in an Interval Range",
+          "titleSlug": "count-odd-numbers-in-an-interval-range",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601637588,
+              "runtime": "1788 ms",
+              "memory": "7.8 MB",
+              "githubPath": "LeetCode/Math/Count Odd Numbers in an Interval Range/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601637588,
+              "runtime": "0 ms",
+              "memory": "16.5 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
             }
           }
         }
