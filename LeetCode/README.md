@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1785601620790" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1785601629191" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
@@ -36,10 +37,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
+| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
+| 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 
 </details>
@@ -52,6 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 
@@ -80,10 +85,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 1041 | [Robot Bounded In Circle](./Math/Robot%20Bounded%20In%20Circle/) | Medium |
 
 </details>
 
@@ -94,6 +102,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:00.789Z",
+  "lastUpdated": "2026-08-01T16:27:09.190Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -76,6 +76,12 @@
               "runtime": "7 ms",
               "memory": "9.1 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            },
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "251 ms",
+              "memory": "17.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         },
@@ -95,6 +101,12 @@
               "runtime": "0 ms",
               "memory": "95.2 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            },
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "2 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
         },
@@ -113,6 +125,12 @@
               "syncedAt": 1785601595350,
               "runtime": "17 ms",
               "memory": "14.2 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            },
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "19 ms",
+              "memory": "17.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
@@ -150,6 +168,12 @@
               "syncedAt": 1785601595350,
               "runtime": "3 ms",
               "memory": "15 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            },
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "1 ms",
+              "memory": "19.1 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
@@ -823,6 +847,208 @@
               "runtime": "4 ms",
               "memory": "8.2 MB",
               "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601629190,
+              "runtime": "0 ms",
+              "memory": "8.3 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601629190,
+              "runtime": "9 ms",
+              "memory": "25.6 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "check-if-it-is-a-straight-line": {
+          "questionId": "1232",
+          "title": "Check If It Is a Straight Line",
+          "titleSlug": "check-if-it-is-a-straight-line",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1785601629190,
+              "runtime": "4 ms",
+              "memory": "12.6 MB",
+              "githubPath": "LeetCode/Array/Check If It Is a Straight Line/"
+            }
+          }
+        },
+        "robot-bounded-in-circle": {
+          "questionId": "1041",
+          "title": "Robot Bounded In Circle",
+          "titleSlug": "robot-bounded-in-circle",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601629190,
+              "runtime": "0 ms",
+              "memory": "8.2 MB",
+              "githubPath": "LeetCode/Math/Robot Bounded In Circle/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601629190,
+              "runtime": "0 ms",
+              "memory": "8 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785601629190,
+              "runtime": "3 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "javascript": {
+              "syncedAt": 1785601629190,
+              "runtime": "2 ms",
+              "memory": "62.7 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "javascript": {
+              "syncedAt": 1785601629190,
+              "runtime": "7 ms",
+              "memory": "56.2 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "0 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "43 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785601629190,
+              "runtime": "5 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
         }
