@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:09.190Z",
+  "lastUpdated": "2026-08-01T16:27:13.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -107,6 +107,12 @@
               "runtime": "2 ms",
               "memory": "18.1 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            },
+            "c": {
+              "syncedAt": 1785601633587,
+              "runtime": "1 ms",
+              "memory": "11.3 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
         },
@@ -150,6 +156,12 @@
               "syncedAt": 1785601595350,
               "runtime": "0 ms",
               "memory": "77.3 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            },
+            "c": {
+              "syncedAt": 1785601633588,
+              "runtime": "6 ms",
+              "memory": "12.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
@@ -1049,6 +1061,60 @@
               "runtime": "5 ms",
               "memory": "18.1 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601633588,
+              "runtime": "0 ms",
+              "memory": "9.6 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "lemonade-change": {
+          "questionId": "860",
+          "title": "Lemonade Change",
+          "titleSlug": "lemonade-change",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601633588,
+              "runtime": "0 ms",
+              "memory": "14.6 MB",
+              "githubPath": "LeetCode/Array/Lemonade Change/"
+            }
+          }
+        },
+        "average-salary-excluding-the-minimum-and-maximum-salary": {
+          "questionId": "1491",
+          "title": "Average Salary Excluding the Minimum and Maximum Salary",
+          "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601633588,
+              "runtime": "0 ms",
+              "memory": "8 MB",
+              "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
             }
           }
         }
