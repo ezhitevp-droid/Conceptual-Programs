@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:17.588Z",
+  "lastUpdated": "2026-08-01T16:27:22.615Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1151,6 +1151,99 @@
               "runtime": "0 ms",
               "memory": "16.5 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601642614,
+              "runtime": "0 ms",
+              "memory": "8.2 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "baseball-game": {
+          "questionId": "682",
+          "title": "Baseball Game",
+          "titleSlug": "baseball-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601642614,
+              "runtime": "4 ms",
+              "memory": "11.8 MB",
+              "githubPath": "LeetCode/Array/Baseball Game/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1785601642614,
+              "runtime": "0 ms",
+              "memory": "11.4 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "find-winner-on-a-tic-tac-toe-game": {
+          "questionId": "1275",
+          "title": "Find Winner on a Tic Tac Toe Game",
+          "titleSlug": "find-winner-on-a-tic-tac-toe-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601642615,
+              "runtime": "0 ms",
+              "memory": "8.2 MB",
+              "githubPath": "LeetCode/Array/Find Winner on a Tic Tac Toe Game/"
+            }
+          }
+        },
+        "robot-return-to-origin": {
+          "questionId": "657",
+          "title": "Robot Return to Origin",
+          "titleSlug": "robot-return-to-origin",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601642615,
+              "runtime": "55 ms",
+              "memory": "8.2 MB",
+              "githubPath": "LeetCode/String/Robot Return to Origin/"
             }
           }
         }

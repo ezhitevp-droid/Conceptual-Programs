@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1785601637592" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1785601642619" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -44,11 +44,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
 | 860 | [Lemonade Change](./Array/Lemonade%20Change/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
+| 1275 | [Find Winner on a Tic Tac Toe Game](./Array/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/) | Easy |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 
 </details>
 
@@ -93,6 +96,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 1041 | [Robot Bounded In Circle](./Math/Robot%20Bounded%20In%20Circle/) | Medium |
@@ -115,6 +119,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
+| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 
 </details>
 
