@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:27:22.615Z",
+  "lastUpdated": "2026-08-01T16:27:30.256Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1244,6 +1244,224 @@
               "runtime": "55 ms",
               "memory": "8.2 MB",
               "githubPath": "LeetCode/String/Robot Return to Origin/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "7.9 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "10.3 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "16.2 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "can-make-arithmetic-progression-from-sequence": {
+          "questionId": "1502",
+          "title": "Can Make Arithmetic Progression From Sequence",
+          "titleSlug": "can-make-arithmetic-progression-from-sequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8.3 MB",
+              "githubPath": "LeetCode/Array/Can Make Arithmetic Progression From Sequence/"
+            }
+          }
+        },
+        "sign-of-the-product-of-an-array": {
+          "questionId": "1822",
+          "title": "Sign of the Product of an Array",
+          "titleSlug": "sign-of-the-product-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8.4 MB",
+              "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "9.3 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "19.7 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8.7 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "23 ms",
+              "memory": "8.4 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "c": {
+              "syncedAt": 1785601650256,
+              "runtime": "0 ms",
+              "memory": "8.3 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
             }
           }
         }
