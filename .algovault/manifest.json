@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:58:07.608Z",
+  "lastUpdated": "2026-08-02T16:58:12.264Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1464,7 +1464,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601650256,
+              "syncedAt": 1785689892263,
               "runtime": "0 ms",
               "memory": "8.3 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
@@ -1482,7 +1482,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601653423,
+              "syncedAt": 1785689892264,
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Two Pointers/Merge Strings Alternately/"
