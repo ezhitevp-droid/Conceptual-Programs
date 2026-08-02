@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:57:32.105Z",
+  "lastUpdated": "2026-08-02T16:57:40.572Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -109,7 +109,7 @@
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             },
             "c": {
-              "syncedAt": 1785601633587,
+              "syncedAt": 1785689860572,
               "runtime": "1 ms",
               "memory": "11.3 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
@@ -159,7 +159,7 @@
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             },
             "c": {
-              "syncedAt": 1785601633588,
+              "syncedAt": 1785689860572,
               "runtime": "6 ms",
               "memory": "12.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -1081,7 +1081,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601633588,
+              "syncedAt": 1785689860572,
               "runtime": "0 ms",
               "memory": "9.6 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
@@ -1099,7 +1099,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601633588,
+              "syncedAt": 1785689860572,
               "runtime": "0 ms",
               "memory": "14.6 MB",
               "githubPath": "LeetCode/Array/Lemonade Change/"
@@ -1117,7 +1117,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601633588,
+              "syncedAt": 1785689860572,
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
