@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T17:05:33.356Z",
+  "lastUpdated": "2026-08-02T17:20:49.864Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -162,6 +162,12 @@
               "syncedAt": 1785689860572,
               "runtime": "6 ms",
               "memory": "12.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            },
+            "java": {
+              "syncedAt": 1785691249864,
+              "runtime": "2 ms",
+              "memory": "46.3 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
