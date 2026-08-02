@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T17:20:49.864Z",
+  "lastUpdated": "2026-08-02T17:31:54.306Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -970,6 +970,12 @@
               "syncedAt": 1785689852105,
               "runtime": "0 ms",
               "memory": "8 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            },
+            "java": {
+              "syncedAt": 1785691914306,
+              "runtime": "5 ms",
+              "memory": "46 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
