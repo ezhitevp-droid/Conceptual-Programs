@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T17:33:12.653Z",
+  "lastUpdated": "2026-08-02T17:49:35.287Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1326,6 +1326,12 @@
               "syncedAt": 1785689887607,
               "runtime": "0 ms",
               "memory": "10.3 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            },
+            "java": {
+              "syncedAt": 1785692975287,
+              "runtime": "5 ms",
+              "memory": "47.1 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
             }
           }
