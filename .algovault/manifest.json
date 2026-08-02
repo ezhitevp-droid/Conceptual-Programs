@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:57:46.821Z",
+  "lastUpdated": "2026-08-02T16:57:54.189Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1171,7 +1171,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601642614,
+              "syncedAt": 1785689874189,
               "runtime": "0 ms",
               "memory": "8.2 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -1190,7 +1190,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601642614,
+              "syncedAt": 1785689874189,
               "runtime": "4 ms",
               "memory": "11.8 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -1208,7 +1208,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601642614,
+              "syncedAt": 1785689874189,
               "runtime": "0 ms",
               "memory": "11.4 MB",
               "githubPath": "LeetCode/Array/Richest Customer Wealth/"
@@ -1228,7 +1228,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601642615,
+              "syncedAt": 1785689874189,
               "runtime": "0 ms",
               "memory": "8.2 MB",
               "githubPath": "LeetCode/Array/Find Winner on a Tic Tac Toe Game/"
