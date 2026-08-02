@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T17:31:54.306Z",
+  "lastUpdated": "2026-08-02T17:33:12.653Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -976,6 +976,12 @@
               "syncedAt": 1785691914306,
               "runtime": "5 ms",
               "memory": "46 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            },
+            "91078654312    while(x!=0){        int digit = x % 10;    int rev=0;    int real=x;    }        return false;        if(x<0){class solution {    public boolean ispalindrome(int x) {": {
+              "syncedAt": 1785691992653,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
