@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T16:56:29.928Z",
+  "lastUpdated": "2026-08-02T16:56:48.145Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -243,7 +243,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601595351,
+              "syncedAt": 1785689808144,
               "runtime": "0 ms",
               "memory": "9.3 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix II/"
@@ -262,7 +262,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605268,
+              "syncedAt": 1785689808144,
               "runtime": "0 ms",
               "memory": "11.3 MB",
               "githubPath": "LeetCode/Array/Unique Paths II/"
@@ -281,7 +281,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808144,
               "runtime": "0 ms",
               "memory": "7.9 MB",
               "githubPath": "LeetCode/Math/Unique Paths/"
@@ -300,7 +300,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808144,
               "runtime": "0 ms",
               "memory": "10.6 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -319,7 +319,7 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "3 ms",
               "memory": "13.2 MB",
               "githubPath": "LeetCode/Array/Jump Game II/"
@@ -339,7 +339,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "0 ms",
               "memory": "9.8 MB",
               "githubPath": "LeetCode/String/Wildcard Matching/"
@@ -356,7 +356,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "3 ms",
               "memory": "11.2 MB",
               "githubPath": "LeetCode/String/Count and Say/"
@@ -376,7 +376,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "304 ms",
               "memory": "8.7 MB",
               "githubPath": "LeetCode/Array/Sudoku Solver/"
@@ -395,7 +395,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "3 ms",
               "memory": "22.9 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
@@ -413,7 +413,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605269,
+              "syncedAt": 1785689808145,
               "runtime": "511 ms",
               "memory": "55.1 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
@@ -431,7 +431,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605270,
+              "syncedAt": 1785689808145,
               "runtime": "0 ms",
               "memory": "13.6 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -449,7 +449,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605270,
+              "syncedAt": 1785689808145,
               "runtime": "0 ms",
               "memory": "18.1 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -467,7 +467,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785601605270,
+              "syncedAt": 1785689808145,
               "runtime": "0 ms",
               "memory": "15.3 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
