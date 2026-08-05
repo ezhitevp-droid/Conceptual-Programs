@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T06:05:07.975Z",
+  "lastUpdated": "2026-08-05T06:06:19.239Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1542,9 +1542,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785909907975,
+              "syncedAt": 1785909979239,
               "runtime": "0 ms",
-              "memory": "48.3 MB",
+              "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
             }
           }
