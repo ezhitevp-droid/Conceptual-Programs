@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T06:06:19.239Z",
+  "lastUpdated": "2026-08-05T06:08:22.868Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1546,6 +1546,12 @@
               "runtime": "0 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
+            },
+            "78910111213123456            int mid = l + (r - l) / 2;                        if (nums[mid] == target) {                return mid;             } else if (nums[mid] < target) {                l = mid + 1; class solution {    public int search(int[] nums, int target) {        int l= 0;        int r = nums.length - 1;                while (l <= r) {": {
+              "syncedAt": 1785910102868,
+              "runtime": "0 ms",
+              "memory": "48.24 MB",
+              "githubPath": "LeetCode/General/Binary Search/"
             }
           }
         }
