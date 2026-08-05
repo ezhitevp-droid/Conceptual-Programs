@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T16:33:28.000Z",
+  "lastUpdated": "2026-08-05T05:43:18.845Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1528,6 +1528,24 @@
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Two Pointers/Merge Strings Alternately/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785908598845,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Binary Search/"
             }
           }
         }
