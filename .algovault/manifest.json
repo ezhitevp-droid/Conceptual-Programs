@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:41:00.997Z",
+  "lastUpdated": "2026-08-06T06:57:17.261Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1573,6 +1573,26 @@
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785999437261,
+              "runtime": "0 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
         }
