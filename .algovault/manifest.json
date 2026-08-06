@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T17:10:01.757Z",
+  "lastUpdated": "2026-08-06T17:16:49.194Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1599,6 +1599,23 @@
               "runtime": "0 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786036609194,
+              "runtime": "2 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
             }
           }
         }
