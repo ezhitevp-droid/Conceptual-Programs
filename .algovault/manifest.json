@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T06:08:22.868Z",
+  "lastUpdated": "2026-08-06T06:41:00.997Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1552,6 +1552,27 @@
               "runtime": "0 ms",
               "memory": "48.24 MB",
               "githubPath": "LeetCode/General/Binary Search/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting",
+            "Quicksort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785998460997,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
             }
           }
         }
