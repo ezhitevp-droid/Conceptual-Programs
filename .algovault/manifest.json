@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T17:16:49.194Z",
+  "lastUpdated": "2026-08-06T17:39:29.480Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1616,6 +1616,26 @@
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786037969480,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
             }
           }
         }
