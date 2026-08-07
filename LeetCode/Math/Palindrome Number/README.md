@@ -5,59 +5,42 @@
 
 ## Problem Statement
 
-Given an integer x, return true if x is a palindrome, and false otherwise.
+<p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is a <span data-keyword="palindrome-integer"><strong>palindrome</strong></span>, and <code>false</code> otherwise.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Input: x = 121
-Output: true
-Explanation: 121 reads as 121 from left to right and from right to left.
+<pre>
+<strong>Input:</strong> x = 121
+<strong>Output:</strong> true
+<strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
+</pre>
 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 2:
+<pre>
+<strong>Input:</strong> x = -121
+<strong>Output:</strong> false
+<strong>Explanation:</strong> From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+</pre>
 
-Input: x = -121
-Output: false
-Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+<p><strong class="example">Example 3:</strong></p>
 
+<pre>
+<strong>Input:</strong> x = 10
+<strong>Output:</strong> false
+<strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
+</pre>
 
-Example 3:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: x = 10
-Output: false
-Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+<ul>
+	<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>
+</ul>
 
-
- 
-Constraints:
-
-
-	-231 <= x <= 231 - 1
-
-
- 
-Follow up: Could you solve it without converting the integer to a string?
-
-## Examples
-
-```
-Input: x = 121
-Output: true
-Explanation: 121 reads as 121 from left to right and from right to left.
-
-Input: x = -121
-Output: false
-Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
-
-Input: x = 10
-Output: false
-Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
-```
-
-## Constraints
-
-- -231 <= x <= 231 - 1
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Could you solve it without converting the integer to a string?
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

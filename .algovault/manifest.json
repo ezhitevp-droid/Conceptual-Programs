@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T06:08:06.973Z",
+  "lastUpdated": "2026-08-07T06:08:20.690Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785689789928,
+              "syncedAt": 1786082900690,
               "runtime": "0 ms",
               "memory": "12.2 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -34,7 +34,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689789928,
+              "syncedAt": 1786082900690,
               "runtime": "0 ms",
               "memory": "11.9 MB",
               "githubPath": "LeetCode/Array/Combination Sum II/"
@@ -165,7 +165,7 @@
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             },
             "java": {
-              "syncedAt": 1785691249864,
+              "syncedAt": 1786082900690,
               "runtime": "2 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -195,7 +195,7 @@
               "githubPath": "LeetCode/Array/Two Sum/"
             },
             "java": {
-              "syncedAt": 1785690333356,
+              "syncedAt": 1786082900690,
               "runtime": "44 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -734,7 +734,7 @@
               "githubPath": "LeetCode/String/Valid Parentheses/"
             },
             "java": {
-              "syncedAt": 1785774808000,
+              "syncedAt": 1786082900690,
               "runtime": "5 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -834,7 +834,7 @@
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
             },
             "java": {
-              "syncedAt": 1785693392049,
+              "syncedAt": 1786082900690,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
@@ -991,7 +991,7 @@
               "githubPath": "LeetCode/Math/Palindrome Number/"
             },
             "java": {
-              "syncedAt": 1785691914306,
+              "syncedAt": 1786082900690,
               "runtime": "5 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
@@ -1353,7 +1353,7 @@
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
             },
             "java": {
-              "syncedAt": 1785692975287,
+              "syncedAt": 1786082900690,
               "runtime": "5 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
