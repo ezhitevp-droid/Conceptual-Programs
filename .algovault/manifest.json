@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T17:39:29.480Z",
+  "lastUpdated": "2026-08-07T06:08:06.973Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -446,6 +446,12 @@
               "syncedAt": 1785689808145,
               "runtime": "0 ms",
               "memory": "13.6 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            },
+            "java": {
+              "syncedAt": 1786082886973,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
             }
           }
@@ -1035,7 +1041,7 @@
               "githubPath": "LeetCode/Array/Container With Most Water/"
             },
             "java": {
-              "syncedAt": 1786036201757,
+              "syncedAt": 1786082886972,
               "runtime": "5 ms",
               "memory": "77.5 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -1548,7 +1554,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785909979239,
+              "syncedAt": 1786082886973,
               "runtime": "0 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -1575,7 +1581,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785998460997,
+              "syncedAt": 1786082886972,
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
@@ -1595,7 +1601,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785999437261,
+              "syncedAt": 1786082886972,
               "runtime": "0 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -1612,7 +1618,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786036609194,
+              "syncedAt": 1786082886972,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Two Integers/"
@@ -1632,10 +1638,46 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786037969480,
+              "syncedAt": 1786082886972,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786082886971,
+              "runtime": "0 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786082886973,
+              "runtime": "5 ms",
+              "memory": "69.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }

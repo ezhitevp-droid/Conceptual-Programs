@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1786037969558" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1786082886976" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -47,8 +47,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
-| 704 | [Binary Search](./General/Binary%20Search/) | Easy |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 860 | [Lemonade Change](./Array/Lemonade%20Change/) | Easy |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
@@ -158,6 +159,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 1768 | [Merge Strings Alternately](./Two%20Pointers/Merge%20Strings%20Alternately/) | Easy |
 
 </details>
