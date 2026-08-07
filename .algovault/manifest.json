@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T06:09:42.925Z",
+  "lastUpdated": "2026-08-07T06:10:03.196Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1347,7 +1347,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887607,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "10.3 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -1370,7 +1370,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887607,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "16.2 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
@@ -1388,7 +1388,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8.3 MB",
               "githubPath": "LeetCode/Array/Can Make Arithmetic Progression From Sequence/"
@@ -1406,7 +1406,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8.4 MB",
               "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
@@ -1424,7 +1424,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "9.3 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -1442,7 +1442,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "19.7 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -1460,7 +1460,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8.7 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
@@ -1479,7 +1479,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "23 ms",
               "memory": "8.4 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -1498,7 +1498,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689887608,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -1518,7 +1518,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689892263,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8.3 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
@@ -1536,7 +1536,7 @@
           ],
           "solutions": {
             "c": {
-              "syncedAt": 1785689892264,
+              "syncedAt": 1786083003196,
               "runtime": "0 ms",
               "memory": "8 MB",
               "githubPath": "LeetCode/Two Pointers/Merge Strings Alternately/"
