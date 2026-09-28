@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:46:07.862Z",
+  "lastUpdated": "2026-09-28T04:56:52.885Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1703,6 +1703,24 @@
               "runtime": "4 ms",
               "memory": "45.25 MB",
               "githubPath": "LeetCode/Array/Final Prices With a Special Discount in a Shop/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790571412885,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
             }
           }
         }
