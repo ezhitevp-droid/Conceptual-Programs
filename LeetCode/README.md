@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1786083003198" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/itz__priyan__?theme=tokyonight&show=graph,recent&v=1790570653167" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -55,6 +55,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
 | 1275 | [Find Winner on a Tic Tac Toe Game](./Array/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/) | Easy |
+| 1475 | [Final Prices With a Special Discount in a Shop](./Array/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/) | Easy |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) | Easy |
 | 1502 | [Can Make Arithmetic Progression From Sequence](./Array/Can%20Make%20Arithmetic%20Progression%20From%20Sequence/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
