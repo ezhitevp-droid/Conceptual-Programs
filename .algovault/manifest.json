@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:44:13.147Z",
+  "lastUpdated": "2026-09-28T04:46:07.862Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1696,6 +1696,12 @@
               "syncedAt": 1790570653147,
               "runtime": "4 ms",
               "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Final Prices With a Special Discount in a Shop/"
+            },
+            "67891011121334512        while(!stack.isempty() && stack.peek()>original){            stack.pop();        }        if(!stack.isempty()){            prices[i]=original-stack.peek();        }        stack.push(original);       stack<integer> stack=new stack<>();       for(int i=prices.length-1;i>=0;i--){        int original=prices[i];class solution {    public int[] finalprices(int[] prices) {": {
+              "syncedAt": 1790570767862,
+              "runtime": "4 ms",
+              "memory": "45.25 MB",
               "githubPath": "LeetCode/Array/Final Prices With a Special Discount in a Shop/"
             }
           }
