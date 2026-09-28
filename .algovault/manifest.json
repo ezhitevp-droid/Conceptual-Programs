@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:56:52.885Z",
+  "lastUpdated": "2026-09-28T06:17:59.060Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1720,6 +1720,12 @@
               "syncedAt": 1790571412885,
               "runtime": "1 ms",
               "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            },
+            "12345678910class solution {    public int[] buildarray(int[] nums) {        int a[]=new int [nums.length];        for(int i=0;i<nums.length;i++){            a[i]=nums[nums[i]];        }    return a;                }}": {
+              "syncedAt": 1790576279060,
+              "runtime": "0 ms",
+              "memory": "47.22 MB",
               "githubPath": "LeetCode/Array/Build Array from Permutation/"
             }
           }
